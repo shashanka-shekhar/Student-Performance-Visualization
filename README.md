@@ -10,6 +10,8 @@ Dataset :
 This data set consists of the scores secured by the students in various subjects- math, reading, writing and socio economic factors like - parental level of education,
 lunch type etc.
 
+Shape - (1000, 8)
+
 Languages and libraries:
 
 This project uses python3, pandas, seaborn, matplotlib in kaggle jupyter notebook environment.
